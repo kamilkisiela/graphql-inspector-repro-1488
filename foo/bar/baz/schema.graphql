@@ -1,4 +1,3 @@
 type Query {
   foo: String!
-  baz: String
 }
