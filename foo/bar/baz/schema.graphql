@@ -1,4 +1,4 @@
 type Query {
-  foo: String!
+  fooo: String!
   bar: String!
 }
