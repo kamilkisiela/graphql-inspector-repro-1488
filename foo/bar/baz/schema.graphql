@@ -1,5 +1,6 @@
 type Query {
-  foo: String!
-  bar: String!
-  baz: String
+  foo: Int!
+  bar: String
+  no: String
+  bas: String
 }
