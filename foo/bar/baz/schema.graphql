@@ -1,5 +1,6 @@
 type Query {
-  foo: String!
+  foo: String
   bar: String!
   baz: String
+  ban: String
 }
